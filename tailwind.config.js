@@ -10,6 +10,7 @@ module.exports = {
         "btn-c-1":"#A4BC46",
         "btn-c-2":"#85A019"
         
+        
       }
       
     },
